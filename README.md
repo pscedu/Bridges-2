@@ -10,7 +10,7 @@ Bridges-2 is led by [Nick Nystrom](mailto:nystrom@psc.edu) (PI/PD), Paola Buitra
 
 PSC’s Bridges-2 platform will address the needs of rapidly evolving research by combining high-performance computing (HPC), high-performance artificial intelligence (HPAI), and high-performance data analytics (HPDA) with a user environment that prioritizes researcher productivity and ease of use.
 
-**Bridges-2 is available at no cost** to Principal Investigators (PIs) at U.S.-based institutions doing open (published) research. A portion of Bridges-2 is also available to industry on a discretionary basis at cost-recovery rates.
+**Bridges-2 is available at no cost** to Principal Investigators (PIs) at U.S.-based institutions doing open (published) research. A portion of Bridges-2 is also available to industry on a discretionary basis.
 
 **Hardware highlights of Bridges-2** include HPC nodes with 128 cores and 256 to 512GB of RAM, scalable AI with 8 NVIDIA Tesla V100-32GB SXM2 GPUs per accelerated node and dual-rail HDR-200 InfiniBand between GPU nodes, a high-bandwidth, tiered data management system to support data-driven discovery and community data, and dedicated database and web servers to support persistent databases and domain-specific portals (science gateways).
 
